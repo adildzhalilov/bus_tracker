@@ -1,4 +1,10 @@
 # Title of project
 Real Time Bus Tracker
 # Description of the project:
-What does the current project do?  Include improvements you made in the description.
+I've change map to satellite view.
+# How to Run:
+Just download all files to the folder and open index.html
+# Roadmap of future improvements:
+I will add a feature to show distance in miles/km
+# License information:
+MIT License
